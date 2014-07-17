@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Parbhat Puri' Blog</title><link href="/" rel="alternate"></link><link href="/feeds%5Cparbhat-puri.atom.xml" rel="self"></link><id>/</id><updated>2014-07-18T19:30:00+02:00</updated><entry><title>Django (Python Web Framework) Tutorials</title><link href="/django_tutorials.html" rel="alternate"></link><updated>2014-07-18T19:30:00+02:00</updated><author><name>Parbhat Puri</name></author><id>tag:,2014-07-18:django_tutorials.html</id><summary type="html">&lt;h2&gt;Django Tutorials&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;&lt;a href="https://www.djangoproject.com/"&gt;Django&lt;/a&gt; is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://docs.djangoproject.com/en/1.6/intro/tutorial01/"&gt;Official Poll's Tutorial&lt;/a&gt; - It is the Official
+tutorial of django on the django site.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.tangowithdjango.com/"&gt;Tango with Django&lt;/a&gt; - A Good Introduction to the django terminology.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://gettingstartedwithdjango.com"&gt;Getting Started With Django&lt;/a&gt; - A video series to upgrade  from beginner to pro.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://twoscoopspress.org/"&gt;Two Scoops of Django&lt;/a&gt; - A book covering the best practices in Django.&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="python"></category><category term="django"></category><category term="web"></category></entry></feed>
